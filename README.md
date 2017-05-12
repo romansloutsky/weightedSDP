@@ -1,6 +1,6 @@
 # Calculating group-wise weighted SDP scores
 
- This module implements group-conservation-weighted SDP scoring, as described in:
+ This code implements group-conservation-weighted SDP scoring, as described in:
    
    Sloutsky R, Naegle KM (2016) High-Resolution Identification of Specificity
    Determining Positions in the LacI Protein Family Using Ensembles of
